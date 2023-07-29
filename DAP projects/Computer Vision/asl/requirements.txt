@@ -1,0 +1,9 @@
+matplotlib
+matplotlib-inline
+numpy
+opencv-python
+scikit-image
+keras
+mediapipe
+tensorflow
+protobuf==3.20.*
