@@ -5,7 +5,7 @@ import cv2
 import hand_detection as hd
 
 # load model
-model = load_model('model_v4.h5')
+model = load_model('tds_base_model.h5')
 
 class_names = ["A", "B", "C", "D", "E", "F",
                "G", "H", "I", "K", "L",
